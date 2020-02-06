@@ -1,0 +1,14 @@
+{
+    "/js/manifest.js": "/js/manifest.js",
+    "/js/vendor.js": "/js/vendor.js",
+    "/js/app.js": "/js/app.js",
+    "/js/helpers.js": "/js/helpers.js",
+    "/css/app.css": "/css/app.css",
+    "/js/home.js": "/js/home.js",
+    "/js/page.js": "/js/page.js",
+    "/js/post.js": "/js/post.js",
+    "/fonts/icomoon.eot": "/fonts/icomoon.eot",
+    "/fonts/icomoon.svg": "/fonts/icomoon.svg",
+    "/fonts/icomoon.ttf": "/fonts/icomoon.ttf",
+    "/fonts/icomoon.woff": "/fonts/icomoon.woff"
+}
